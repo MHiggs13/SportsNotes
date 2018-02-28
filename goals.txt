@@ -1,0 +1,7 @@
+- create a football note application
+- allow notes to be created, edited, viewed and saved in a web browser
+- use the json format to store them
+- make the notes look presentable
+- make this secure
+- implement a log in
+- go live
