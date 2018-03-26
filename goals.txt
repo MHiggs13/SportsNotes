@@ -1,4 +1,4 @@
-- create a football note application
+- create a football note application, that allows tracking of positives, negatives and overall notes for performances in a sport event
 - allow notes to be created, edited, viewed and saved in a web browser
 - use the json format to store them
 - make the notes look presentable
